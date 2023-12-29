@@ -1,7 +1,7 @@
 #include <ntddk.h>
 
 
-void deprotect()
+void deprotect(
 {
 	__asm
 	{
