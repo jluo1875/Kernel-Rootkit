@@ -1,7 +1,7 @@
 # Kernel-Rootkit
 ## Description
 
-This is a kernel rootkit for a 32-bit system, helping me understand how rootkits are made and work.
+This is a kernel rootkit made to infiltrate a 32-bit Windows system.
 
 
 ## Rootkit Features
