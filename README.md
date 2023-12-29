@@ -1,4 +1,4 @@
-# Kernel-Rootkit
+# Kernel Rootkit
 ## Description
 
 This is a kernel rootkit made to infiltrate a 32-bit Windows system.
