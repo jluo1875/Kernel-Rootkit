@@ -12,9 +12,9 @@ A big shoutout to these two books that helped me get a grasp on programming it!
 
 ## Rootkit Features
 
-✔️: Protect Files (Read\Write\Create\Delete\Rename\Open\Execute)     
-✔️: Hide Process    
-✔️: Protect Process, Thread     
-✔️: Protect Registry Keys (Open\Create\Delete\Set)        
-✔️: Bypass privilege checks       
+✔️ Protect Files (Read\Write\Create\Delete\Rename\Open\Execute)     
+✔️ Hide Process    
+✔️ Protect Process, Thread     
+✔️ Protect Registry Keys (Open\Create\Delete\Set)        
+✔️ Bypass privilege checks       
 
