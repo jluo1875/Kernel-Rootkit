@@ -1,5 +1,5 @@
 #pragma warning (disable : 4309)
-#pragma warning (disable : 4996
+#pragma warning (disable : 4996)
 
 #include <ntddk.h>
 
