@@ -1,16 +1,18 @@
 # Kernel Rootkit
 ## Description
 
-This is a kernel rootkit made to infiltrate a 32-bit Windows system.
+This is a kernel rootkit made to infiltrate a 32-bit Windows system. This project gave me a better understanding of how rootkits work and how they can be detected/mitigated. 
 
 
 ## Rootkit Features
 
-✔️ Protect Files (Read\Write\Create\Delete\Rename\Open\Execute)     
-✔️ Hide Processes    
-✔️ Protect Processes, Threads    
-✔️ Protect Registry Keys (Open\Create\Delete\Set)        
-✔️ Bypass Privilege Checks       
+This rootkit features the ability to:
+
+-Protect Files (Read\Write\Create\Delete\Rename\Open\Execute)     
+-Hide Processes    
+-Protect Processes, Threads    
+-Protect Registry Keys (Open\Create\Delete\Set)        
+-Bypass Privilege Checks       
 
 ## Links/References
 
